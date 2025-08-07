@@ -31,3 +31,4 @@ jobs:
         docker build -t flask-app:latest .
     
     # Optional: Add additional steps to push the Docker image to a registry like Docker Hub
+    # test_update
